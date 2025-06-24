@@ -36,7 +36,7 @@ This repository contains a CircuitPython script that transforms your Adafruit Ma
 
 - Adafruit Macropad RP2040
 
-U- SB-C cable for connecting to your computer
+- USB-C cable for connecting to your computer
 
 ## Software Requirements
 
